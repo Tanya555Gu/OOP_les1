@@ -6,9 +6,9 @@ public class Square extends Rectangle {
         super(side, side);
     }
 
-    public void setSide(int side){
-        this.side = side;
-    }
+    // public void setSide(int side){
+    //     this.side = side;
+    // }
 
     public int getSide(){
         return side;
